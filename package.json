@@ -1,0 +1,13 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Teste Crawly",
+  "main": "index.js",
+  "author": "Diego Andrade",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
